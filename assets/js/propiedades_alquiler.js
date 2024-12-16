@@ -1,4 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const alquilerContainer = document.querySelector('.row');
-  renderPropiedades(propiedades_alquiler, alquilerContainer);
+  // Renderizar primeras 3 propiedades de venta y alquiler
+  renderPropiedades(propiedadesVenta, "contenedor_propiedades_alquiler");
 });
