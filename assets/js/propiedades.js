@@ -83,7 +83,7 @@ const propiedadesAlquiler = [
   },
   {
     nombre: "Penthouse con Vista",
-    src: "img/penthouse1.jpg",
+    src: "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8YXBhcnRtZW50fGVufDB8MHwwfHx8MA%3D%3D&auto=format&fit=crop&w=700&q=60",
     descripcion: "Ático de lujo con vista panorámica a la ciudad.",
     ubicacion: "Zona Alta",
     habitaciones: 2,
