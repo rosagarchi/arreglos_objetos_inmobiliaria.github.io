@@ -1,0 +1,27 @@
+.propiedad {
+  border: 1px solid #ddd;
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+}
+
+.card {
+  width: 100%;
+  height: auto;
+}
+
+.card img{
+  height: 250px;
+}
+
+.main-section {
+  background-image: url('../img/img-main.jpeg');
+  background-size: cover; 
+  background-position: center;
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  text-align: center;
+}
